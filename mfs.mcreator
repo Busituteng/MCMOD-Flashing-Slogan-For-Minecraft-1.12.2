@@ -1,0 +1,28 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "mfs",
+    "modName": "MCMODFlashingSlogan",
+    "version": "0.0.1",
+    "description": "?",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://www.mcmod.cn/class/8567.html",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "BT, MCr",
+    "modElementsPackage": "net.mcreator.mfs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
